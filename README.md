@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I used Python programming to solve these Problems
 <!--
 **Riyaj-shaik/RIYAJ-SHAIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
