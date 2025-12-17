@@ -1,5 +1,5 @@
 ## Hi there 👋
-I used Python programming Language to solve these Problems\n
+I used Python programming Language to solve these Problems
 
 Problem-1.py creating a small calculator</br>
 Problem-2.py generating the sequence 1,3,5,... as per the input</br>
