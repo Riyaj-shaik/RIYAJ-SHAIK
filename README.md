@@ -1,5 +1,20 @@
 ## Hi there 👋
-I used Python programming to solve these Problems
+I used Python programming Language to solve these Problems
+
+Problem-1.py creating a small calculator
+Problem-2.py generating the sequence 1,3,5,... as per the input
+              if input=1 output=1
+              if input=2 output=1,3
+              if input=3 output=1,3,5
+Problem-3.py generating the sequence 1,3,5,... as per the input
+              if input=1 output=1
+              if input=2 output=1
+              if input=3 output=1,3,5
+              if input=4 output=1,3,5
+              if input=5 output=1,3,5,7,9
+Problem-4.py Get total count of numbers which are multiples of 1,2,3,4,5,6,7,8,9
+
+
 <!--
 **Riyaj-shaik/RIYAJ-SHAIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
